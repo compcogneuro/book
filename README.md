@@ -6,6 +6,6 @@ The first part of this textbook develops a coherent set of computational and neu
 
 Copyright © 2024 Randall C. O'Reilly, Yuko Munakata, Michael J. Frank, Thomas E. Hazy, and Contributors
 
-All rights reserved. Licensed under [CC-BY-4.0](https://github.com/CompCogNeuro/book/blob/main/LICENSE).
+All rights reserved. Licensed under [CC-BY-4.0](https://github.com/compcogneuro/book/blob/main/LICENSE).
 
 For download links and more information, see the [book website](https://compcogneuro.org/book).
