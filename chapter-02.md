@@ -333,13 +333,13 @@ $$ y(t) = y(t-1) + dt_{vm} \left(y^*(x) - y(t-1) \right) $$
 
 ## Exploration of the Individual Neuron
 
-To get your hands dirty, run the [neuron](https://compcogneuro.org/sims/ch2/neuron/) simulation, available in the [CCN Sims](https://compcogneuro.org/simulations).
+To get your hands dirty, run the [neuron](https://sims.compcogneuro.org/ch2/neuron/) simulation, available in the [CCN Sims](https://compcogneuro.org/simulations).
 
 ## Back to the Detector
 
 Now that you can see how the individual neuron integrates a given excitatory signal relative to leak/inhibition, it is important to put this into the larger perspective of the detection process. In this simulation, you'll see how a neuron can pick out a particular input pattern from a set of inputs, and also how it can have different patterns of responding depending on its parameters ("loose" or "strict").
 
-You can run this simulation in the [detector](https://compcogneuro.org/sims/ch2/detector/) model in [CCN Sims](https://compcogneuro.org/simulations).
+You can run this simulation in the [detector](https://sims.compcogneuro.org/ch2/detector/) model in [CCN Sims](https://compcogneuro.org/simulations).
 
 ## Appendix
 
